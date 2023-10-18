@@ -1,1 +1,1 @@
-![depup logo](../media/depup.svg)
+![depup logo](/media/depup.svg)
